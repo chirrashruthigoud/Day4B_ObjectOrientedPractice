@@ -10,9 +10,14 @@ namespace Day4B_ObjectorientedPractice
     {
         static void Main(string[] args)
         {
-             DuplicateElement num=new DuplicateElement();
-             num.elements();
-            Console.ReadKey();
+            // DuplicateElement num=new DuplicateElement();
+            // num.elements();
+            //Console.ReadKey();
+
+
+            UniqueElementInArray unique = new UniqueElementInArray();
+            unique.PrintElement();
+            Console.ReadLine();
         }
     }
 }
