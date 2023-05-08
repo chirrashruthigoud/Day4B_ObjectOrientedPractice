@@ -24,8 +24,12 @@ namespace Day4B_ObjectorientedPractice
             //name.Frequency();
             //Console.ReadLine();
 
-            MaxMinArray max = new MaxMinArray();
-            max.Maxminarray();
+            //MaxMinArray max = new MaxMinArray();
+            //max.Maxminarray();
+            //Console.ReadKey();
+
+            PrintPattern obj = new PrintPattern();
+            obj.Pattern();
             Console.ReadKey();
         }
     }
