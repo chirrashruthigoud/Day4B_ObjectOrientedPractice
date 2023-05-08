@@ -20,9 +20,13 @@ namespace Day4B_ObjectorientedPractice
             //Console.ReadLine();
 
 
-            Countsfrequency name = new Countsfrequency();
-            name.Frequency();
-            Console.ReadLine();
+            //Countsfrequency name = new Countsfrequency();
+            //name.Frequency();
+            //Console.ReadLine();
+
+            MaxMinArray max = new MaxMinArray();
+            max.Maxminarray();
+            Console.ReadKey();
         }
     }
 }
