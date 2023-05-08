@@ -15,8 +15,13 @@ namespace Day4B_ObjectorientedPractice
             //Console.ReadKey();
 
 
-            UniqueElementInArray unique = new UniqueElementInArray();
-            unique.PrintElement();
+            //UniqueElementInArray unique = new UniqueElementInArray();
+            //unique.PrintElement();
+            //Console.ReadLine();
+
+
+            Countsfrequency name = new Countsfrequency();
+            name.Frequency();
             Console.ReadLine();
         }
     }
