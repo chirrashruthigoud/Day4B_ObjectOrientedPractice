@@ -40,9 +40,13 @@ namespace Day4B_ObjectorientedPractice
             //reverseWord.PrintReverse();
             //Console.ReadLine();
 
-            SumofAllDigits Digits = new SumofAllDigits();
-            Digits.sumofdigits();
-            Console.ReadLine();
+            //SumofAllDigits Digits = new SumofAllDigits();
+            //Digits.sumofdigits();
+            //Console.ReadLine();
+
+            RowofMatrix row=new RowofMatrix();
+            row.MatrixRow();
+            Console.ReadKey();
         }
     }
 }
