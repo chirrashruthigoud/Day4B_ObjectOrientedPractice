@@ -36,8 +36,12 @@ namespace Day4B_ObjectorientedPractice
             //obj.PrintPattern();
             //Console.ReadKey();
 
-            ReverseWord reverseWord = new ReverseWord();
-            reverseWord.PrintReverse();
+            //ReverseWord reverseWord = new ReverseWord();
+            //reverseWord.PrintReverse();
+            //Console.ReadLine();
+
+            SumofAllDigits Digits = new SumofAllDigits();
+            Digits.sumofdigits();
             Console.ReadLine();
         }
     }

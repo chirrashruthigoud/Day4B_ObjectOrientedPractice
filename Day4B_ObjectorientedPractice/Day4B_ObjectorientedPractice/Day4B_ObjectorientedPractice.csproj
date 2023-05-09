@@ -51,6 +51,7 @@
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="ReverseWord.cs" />
+    <Compile Include="SumofAllDigits.cs" />
     <Compile Include="UniqueElementInArray.cs" />
   </ItemGroup>
   <ItemGroup>
