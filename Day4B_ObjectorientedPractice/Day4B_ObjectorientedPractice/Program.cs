@@ -28,8 +28,12 @@ namespace Day4B_ObjectorientedPractice
             //max.Maxminarray();
             //Console.ReadKey();
 
-            PrintPattern obj = new PrintPattern();
-            obj.Pattern();
+            //PrintPattern obj = new PrintPattern();
+            //obj.Pattern();
+            //Console.ReadKey();
+
+            PrintStar obj= new PrintStar();
+            obj.PrintPattern();
             Console.ReadKey();
         }
     }
