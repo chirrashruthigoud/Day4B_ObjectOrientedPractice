@@ -32,9 +32,13 @@ namespace Day4B_ObjectorientedPractice
             //obj.Pattern();
             //Console.ReadKey();
 
-            PrintStar obj= new PrintStar();
-            obj.PrintPattern();
-            Console.ReadKey();
+            //PrintStar obj= new PrintStar();
+            //obj.PrintPattern();
+            //Console.ReadKey();
+
+            ReverseWord reverseWord = new ReverseWord();
+            reverseWord.PrintReverse();
+            Console.ReadLine();
         }
     }
 }
